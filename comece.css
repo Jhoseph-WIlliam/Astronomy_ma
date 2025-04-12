@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 40px;
+    padding: 20px;
+    border: 5px solid #ddd;
+    border-radius: 15px;
+}
+
+header img {
+    border: 5px solid white;
+    border-radius: 50%;
+    height: 160px;
+}
+
+footer {
+    color: white;
+    font-size: 15px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.centro {
+    text-align: center;
+}
+
+a {
+    color: white;
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+    text-decoration: none;
+}
